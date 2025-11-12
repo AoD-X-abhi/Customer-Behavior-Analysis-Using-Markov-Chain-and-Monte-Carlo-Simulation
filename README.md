@@ -1,6 +1,6 @@
 # 🛒 Customer Behavior Analysis Using Markov Chain, Monte Carlo Simulation & Round Robin Congestion Handling  
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)]
 [![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange.svg)](https://jupyter.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)]()
