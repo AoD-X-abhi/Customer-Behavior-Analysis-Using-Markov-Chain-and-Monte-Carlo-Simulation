@@ -67,14 +67,9 @@ pip install -r requirements.txt
 
 # 4️⃣ Run the main notebook for step-by-step analysis
 jupyter notebook customerMovementPrediction.ipynb
+jupyter notebook transitionMatrixGeneration.ipynb
 
 # OR run the simulation directly from Python script
 python simulation1.py
 
-- ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white)(https://www.python.org/)
-- ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-- ![Matplotlib](https://img.shields.io/badge/Matplotlib-008B8B?style=for-the-badge&logo=plotly&logoColor=white)
-- ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-- ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
