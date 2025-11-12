@@ -17,7 +17,7 @@ A **Round Robin method** is integrated as a checkpoint to efficiently handle con
 
 
 <p align="center">
-  <img src="images/Simulation.gif" alt="Customer Simulation" width="700"/>
+  <img src="images/Simulation.gif" alt="Customer Simulation" width="900"/>
 </p>
 
 ---
