@@ -15,6 +15,11 @@ This project models and predicts **customer movement behavior inside a retail st
 The goal is to analyze how customers transition between store sections, estimate section-wise traffic, and simulate store revenue generation based on visit probabilities and purchase trends.  
 A **Round Robin method** is integrated as a checkpoint to efficiently handle congestion by balancing the number of customers across crowded sections.
 
+
+<p align="center">
+  <img src="images/Simulation.gif" alt="Customer Simulation" width="700"/>
+</p>
+
 ---
 
 ## 🎯 Objectives  
